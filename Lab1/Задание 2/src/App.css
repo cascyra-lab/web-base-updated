@@ -1,3 +1,10 @@
+html, 
+body,
+#root {
+    height: 100%;
+    margin: 0;
+}
+
 .flex-container {
     width: 700px;
     height: 300px;
